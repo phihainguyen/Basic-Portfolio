@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    block-size: border
+}
+
+.nav.justify-content-end {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
