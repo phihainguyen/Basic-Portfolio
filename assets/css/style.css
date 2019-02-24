@@ -74,10 +74,10 @@ li {
     color: white;
   }
   .active {
-    background-color: #4aaaa5;
+    background-color: #ccc;
     border-radius: 5px;
     border: 1px solid white;
-    color: white;
+    color: #4aaaa5;
   }
    img{
     left: 20px;
